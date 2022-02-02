@@ -1,1 +1,1 @@
-ECHO is on.
+//JavaScript Code Krejci
